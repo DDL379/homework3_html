@@ -39,7 +39,8 @@ img {
 
 .logo {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
-    
+    padding-right: 30px;
+    font-size: 14px;
 }
